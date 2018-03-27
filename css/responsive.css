@@ -1,0 +1,51 @@
+/*	Layout for Extra Large (col-xl-*) Device : Minimum Width : 1200px.	*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	
+}
+
+/*	Layout for Large (col-lg-*) Device : Minimum Width : 992px.	*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+	
+}
+
+
+/*	Layout for Medium (col-md-*) Device or Tablet: Minimum Width : 768px.	*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	
+}
+
+
+/*	Layout for Small (col-sm-*) Device or Tablet: Minimum Width : 577px.	*/
+
+@media only screen and (min-width: 577px) and (max-width: 767px) {
+
+	
+}
+/*	Layout for Extra Small (col-*) Device:  : Maximum Width 320px.   	*/
+
+@media only screen and (max-width:  576px) {
+	
+
+}
+
+
+/*	Layout for Mobile Device:  : 320px.   	*/
+
+@media only screen and (max-width: 767px) {
+	
+
+}
+
+/* Layout for Wide Mobilev: 480px.  */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+}
+
